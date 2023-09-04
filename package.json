@@ -4,7 +4,7 @@
   "description": "renovate-test-project4",
   "main": "index.js",
   "engines": {
-    "node": "14",
+    "node": "18",
     "npm": "6"
   },
   "author": "",
