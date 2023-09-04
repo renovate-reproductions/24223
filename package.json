@@ -1,0 +1,17 @@
+{
+  "name": "renovate-test-project4",
+  "version": "1.0.0",
+  "description": "renovate-test-project4",
+  "main": "index.js",
+  "config": {
+    "engines": {
+      "node": "14",
+      "npm": "6"
+    }
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "detect-it": "^3.0.2"
+  }
+}
